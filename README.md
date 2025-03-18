@@ -105,7 +105,5 @@ TxtPersona CrewAI consists of multiple AI agents:
 ## 🐜 License  
 This project is licensed under the **MIT License**.
 
----
-🚀 **Happy Building!**  
-```
 
+![newplot](https://github.com/user-attachments/assets/94fa5527-751d-4a84-89c6-a4354595951e)
