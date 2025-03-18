@@ -1,0 +1,73 @@
+read_user_data:
+  description: >
+    Read the users.txt file and extract structured user details for all users.
+  expected_output: >
+    A structured list of user details for all users extracted from the file.
+  agent: Reader
+
+format_user_persona:
+  description: >
+    Convert the extracted list of user details into a structured user persona format. Each user's persona must follow the strict
+     template below. If any required information (Name, Age, Location, Industry, Role, Experience, Goals, Challenges, Technology Proficiency) is missing, specify it under "Missing." 
+  expected_output: >
+    **Name**: <User's Name>  
+    **Age**: <User's Age>  
+    **Location**: <User's Location>  
+    **Industry**: <The Industry in which the user operates in>  
+    **Role**: <User's Role/Designation>  
+    **Experience**: <User's Years of Experience>  
+    **Goals**: <The Goals that the user aspires/wants to achieve>  
+    **Challenges**: <Challenges the user is facing>  
+    **Technology Proficiency**: <The user's Technical Proficiency>  
+    **Missing**: <List all missing mandatory fields>  
+  agent: formatter_agent
+
+evaluate_completeness:
+  description: >
+    Analyze each persona to identify missing details and calculate the completeness score. The completeness score is calculated as (Number of available mandatory fields / 9) * 100.
+    Provide suggestions for improving the persona's completeness.
+  expected_output: >
+    The persona is <calculated score>% complete.  
+    Consider adding <missing details> about the user to make it more comprehensive.
+  agent: evaluator_agent
+
+merge_persona_evaluation:
+  description: >
+    Merge the formatted user persona with the completeness evaluation for each user. 
+    Ensure that the evaluation appears directly below each user's persona.
+  expected_output: >
+    **Name**: <User's Name>  
+    **Age**: <User's Age>  
+    **Location**: <User's Location>  
+    **Industry**: <The Industry in which the user operates in>  
+    **Role**: <User's Role/Designation>  
+    **Experience**: <User's Years of Experience>  
+    **Goals**: <The Goals that the user aspires/wants to achieve>  
+    **Challenges**: <Challenges the user is facing>  
+    **Technology Proficiency**: <The user's Technical Proficiency>  
+    **Missing**: <List all missing mandatory fields>  
+
+    The persona is <calculated score>% complete.  
+    Consider adding <missing details> about the user to make it more comprehensive.
+  agent: merger_agent
+
+file_write_task:
+  description: >
+    Write the complete user personas (including formatted personas and completeness evaluations) to a file.
+    Ensure that all users are included and the output strictly follows the required format.
+  expected_output: >
+    A Markdown file named `user_persona/{date}_user_personas.md` containing the merged personas and completeness evaluations for all users. Each persona must follow the strict format:
+    - **Name**: <User's Name>  
+    - **Age**: <User's Age>  
+    - **Location**: <User's Location>  
+    - **Industry**: <The Industry in which the user operates in>  
+    - **Role**: <User's Role/Designation>  
+    - **Experience**: <User's Years of Experience>  
+    - **Goals**: <Detailted Goals that the user aspires/wants to achieve>  
+    - **Challenges**: <Detailed Challenges the user is facing>  
+    - **Technology Proficiency**: <The user's Technical Proficiency>  
+    - **Missing**: <List all missing mandatory fields>  
+
+    The persona is <calculated score>% complete.  
+    Consider adding <missing details> about the user to make it more comprehensive.
+  agent: file_writer_agent

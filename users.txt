@@ -1,0 +1,78 @@
+1. John Adams – Landscape Manager at GreenThumb Landscaping
+John Adams is the Landscape Manager at GreenThumb Landscaping, a mid-sized company that services residential and commercial properties. He has been working in landscaping for 8 years and is focused on improving efficiency and reducing costs. John often deals with managing multiple projects at once and needs to have a clear overview of the work completed on various properties. He is proficient in basic GIS tools and needs a solution that will integrate mapping with his team’s daily scheduling. 
+
+
+2. Sarah Bennett – Property Manager at Metro Realty
+Sarah Bennett works as a Property Manager at Metro Realty, overseeing the landscaping needs of 25 commercial properties. She is primarily concerned with keeping property maintenance costs within budget while ensuring that the grounds are always well-maintained for tenants. Sarah is relatively new to GIS software and prefers easy-to-use, intuitive tools. She wants a solution that can help her track landscaping services in real-time. 
+
+3. Michael Clark – Urban Planner at City Planning Office
+Michael Clark is an Urban Planner with 10 years of experience working in public infrastructure and urban development. His focus is on ensuring that green spaces and parks are appropriately planned and maintained within urban areas. He uses geospatial data frequently for city planning and needs a solution that can handle large data sets and show detailed property maps. Michael prefers a high level of customization for map overlays and spatial data analysis. 
+
+4. Olivia Jones – Operations Manager at GreenSpace Solutions
+Olivia Jones manages the operations of GreenSpace Solutions, a landscaping company that works with municipalities on public parks and recreational areas. She is concerned with ensuring that their teams are equipped with accurate property data for planning and maintenance. Olivia often struggles with coordinating teams to perform work on time and within the scheduled window. She is looking for a tool to optimize work assignments and track project completion. 
+
+5. Kevin Miller – Landscaping Entrepreneur
+Kevin Miller runs a small landscaping business that provides services for both residential and commercial properties. He is passionate about offering high-quality landscaping services and wants a product that can help him with mapping and managing clients. Kevin’s company struggles with accurately measuring properties and tracking the progress of work. He would benefit from a tool that allows him to provide customers with real-time updates on their services. 
+
+6. Emily Roberts – Facility Manager at Sunshine Hotels
+Emily Roberts is the Facility Manager at Sunshine Hotels, where she manages the landscaping of multiple hotel properties. Her primary focus is keeping the properties looking pristine for guests while maintaining operational efficiency. Emily is not very tech-savvy and is looking for a straightforward solution to schedule maintenance tasks and monitor landscaping work across several hotel sites. 
+
+7. James Walker – Environmental Consultant at EcoSolutions
+James Walker works as an Environmental Consultant, advising businesses on sustainable practices, including green spaces and eco-friendly property management. He frequently conducts assessments on outdoor spaces and needs access to accurate property maps to assist in his recommendations. James has a moderate level of technical expertise and uses mapping software but is seeking a more specialized tool tailored to landscape management. 
+
+8. Laura Perez – Landscape Architect
+Laura Perez is a Landscape Architect who works with urban developers to design parks, gardens, and green spaces in residential and commercial developments. She uses mapping tools to create detailed landscape designs and needs a tool that can integrate with her design software. Laura is an expert in design but has limited experience with geospatial analysis and needs a solution that is both user-friendly and effective. 
+
+9. Daniel Smith – Regional Operations Manager at EcoGreen Landscaping
+Daniel Smith manages regional operations for EcoGreen Landscaping, a company that provides large-scale lawn care services for commercial buildings. He oversees 10 landscaping teams and needs a platform that helps him allocate resources efficiently and track performance across multiple locations. Daniel has basic experience with mapping and scheduling tools and is interested in integrating these systems for better performance management. 
+
+10. Sarah White – Director of Sustainability at UrbanScape
+Sarah White leads the sustainability efforts at UrbanScape, a company that designs and manages urban parks and green spaces. She is focused on creating sustainable environments and tracking the health of green spaces using data-driven insights. Sarah is highly knowledgeable about GIS software and is looking for a tool that offers both accuracy and flexibility for large-scale urban projects. 
+
+11. David Martinez – Construction Manager at BuildIt Developments
+David Martinez is the Construction Manager at BuildIt Developments, a real estate company focusing on commercial property projects. While he is not directly responsible for landscaping, he coordinates with landscape contractors to ensure proper maintenance during the development phases. He wants a solution that provides clear mapping data to assist in planning landscaping as construction progresses. 
+
+12. Jessica Lee – Groundskeeper at Pinehill Senior Living
+Jessica Lee is a Groundskeeper at Pinehill Senior Living, where she is responsible for maintaining the outdoor areas of the facility. She needs a simple, accessible tool to track what areas have been maintained and when. While she is not familiar with sophisticated mapping tools, she is looking for something easy to use that helps with efficiency in her daily tasks. 
+
+13. Mark Thompson – Landscape Service Provider at Thompson’s Landscaping
+Mark Thompson operates Thompson’s Landscaping, a company that serves both commercial and residential clients. He is looking for a solution to better manage client properties, schedule work orders, and provide more accurate measurements. Mark has a high level of technical knowledge and is comfortable using mapping tools, but he wants something that integrates all his needs into one platform. 
+
+14. Rachel Davis – Parks Director at Riverside City
+Rachel Davis manages the public parks in Riverside City. She oversees a large team of groundskeepers and is focused on maintaining both the aesthetic quality and environmental health of city parks. She requires a tool that helps her track the health of green spaces and coordinates with other city departments to plan for future developments.
+
+15. Adam Harris – CEO at LawnPro
+Adam Harris is the CEO of LawnPro, a national lawn care and landscaping service provider. His company serves thousands of properties across the country. Adam is focused on streamlining operations and maximizing efficiency across teams in different regions. He needs a product that integrates easily with his existing systems and can handle large-scale data for reporting and customer insights. 
+
+16. Michael Green – Senior Landscape Architect at UrbanScapes
+Michael Green is a 40-year-old Senior Landscape Architect at UrbanScapes based in Chicago, IL, with 15 years of experience in landscape design and urban planning. He specializes in creating sustainable, aesthetically pleasing green spaces in urban environments. Michael uses mapping tools to incorporate detailed geospatial data into his designs, ensuring environmental sustainability and aesthetic appeal. His main challenge is integrating multiple datasets (such as environmental data and property maps) into one user-friendly platform. He is highly proficient with advanced GIS tools, CAD software, and landscape modeling software, and he prefers a solution that is customizable and intuitive for clients and project collaborators.
+
+17. Laura Miller – Property Manager at Hillside Apartments
+Laura Miller is a 32-year-old Property Manager at Hillside Apartments in San Francisco, CA. She has 7 years of experience in property management and is responsible for overseeing several residential properties. Laura aims to streamline the scheduling and tracking of landscaping maintenance across her properties while reducing costs. She struggles with managing multiple properties simultaneously and lacks real-time updates on work completed. Though comfortable with scheduling software, she is not familiar with GIS tools. Laura needs an easy-to-use, intuitive solution that integrates scheduling, task management, and property mapping.
+
+18. John Rivers – Groundskeeper at Riverwood High School
+John Rivers is a 29-year-old Groundskeeper at Riverwood High School in Austin, TX, with 5 years of experience maintaining the school’s outdoor spaces. He focuses on keeping the campus clean, safe, and attractive for students and staff. John is looking for a tool to track maintenance schedules and receive alerts for when services are due. He struggles with manually tracking tasks and finding tools that cater specifically to educational campuses. With limited technical expertise, John prefers a simple, user-friendly tool that helps him manage daily tasks without requiring advanced technical knowledge.
+
+19. Karen Lewis – Landscape Maintenance Supervisor at GreenThumb Landscaping
+Karen Lewis, a 45-year-old Landscape Maintenance Supervisor at GreenThumb Landscaping in Denver, CO, has 20 years of experience in landscape maintenance. She supervises a team of landscapers and is focused on efficiently managing large properties, ensuring maintenance work is completed on time and within budget. Karen faces difficulties coordinating schedules for large teams and tracking progress on projects. While comfortable with basic project management tools, she is not highly technical. Karen is looking for practical, simple tools that her team can use, while providing her with the oversight needed to monitor all ongoing landscaping projects.
+
+20. Mark Harris – CEO at Premier Landscaping Solutions
+Mark Harris, a 50-year-old CEO of Premier Landscaping Solutions based in New York, NY, has 25 years of experience in the landscaping industry, overseeing both residential and commercial properties. Mark is focused on growing his business by improving operational efficiency and needs a solution that can scale with the company’s growth. He faces challenges in obtaining real-time visibility into service delivery, scheduling, and workforce productivity across a large number of properties. He is proficient with a wide range of business management and mapping tools and prefers a solution that is highly customizable with data analytics capabilities to help him monitor performance and make data-driven decisions.
+
+21. Jessica Turner – Director of Facilities at City Green Park
+Jessica Turner is a 38-year-old Director of Facilities at City Green Park in Los Angeles, CA. With 10 years of experience in park management and green space maintenance, she oversees the maintenance of a large urban park. Jessica's goal is to track the condition of green spaces, schedule maintenance tasks, and improve visitor satisfaction through well-maintained areas. She faces challenges managing a diverse range of tasks and contractors while tracking large areas of parkland. Although familiar with facility management software, she is new to geospatial mapping tools. Jessica is looking for an easy-to-implement solution that can provide her team with a clear overview of ongoing maintenance efforts.
+
+22. David King – Sustainability Consultant at Green Future Solutions
+David King is a 42-year-old Sustainability Consultant at Green Future Solutions in Portland, OR. With 12 years of experience in environmental and sustainability consulting, David helps companies implement eco-friendly landscaping practices. He needs access to data on land health, maintenance schedules, and environmental impact to make informed recommendations. However, he struggles to access consolidated, up-to-date geospatial data for his work. David is highly proficient with GIS tools and environmental data software and prefers a solution that offers high-quality data visualization and can integrate multiple data sources for comprehensive sustainability analysis.
+
+23. Samantha Gray – Landscape Design Coordinator at DreamScapes Design
+Samantha Gray, 34, is a Landscape Design Coordinator at DreamScapes Design in Seattle, WA, with 8 years of experience in landscape design and project coordination. Samantha works with high-end residential clients and is focused on creating visually appealing outdoor spaces that align with her clients' vision while being practical. She needs a solution that integrates design features with real-world property data but faces challenges in keeping up with complex designs and site-specific requirements in real-time. While proficient in design software, Samantha has limited experience with geospatial mapping tools. She seeks a platform that can seamlessly integrate with design tools and provide precise data about the properties being worked on.
+
+24. Patrick Wilson – Grounds and Facilities Manager at Lakeside Resort
+Patrick Wilson is a 50-year-old Grounds and Facilities Manager at Lakeside Resort in Orlando, FL, with 18 years of experience in hospitality property management. He oversees the grounds of a luxury resort, including gardens, lawns, and outdoor recreational areas. Patrick’s goal is to maintain an aesthetically pleasing environment for guests while minimizing maintenance costs. He struggles with managing large outdoor areas across multiple locations and ensuring that the property is always guest-ready. Although comfortable with property management software, he is not highly technical and needs a solution that helps him track maintenance tasks and provides an overview of all property work without overwhelming him with technical complexities.
+
+25. Emma Clark – Head of Operations at CleanGreen Landscaping
+Emma Clark, 36, is the Head of Operations at CleanGreen Landscaping in Miami, FL, with 10 years of experience in operations and business management for landscaping services. Emma’s goal is to optimize work efficiency, reduce operational costs, and improve customer satisfaction by providing accurate property data and ensuring that teams meet deadlines. She faces difficulties managing multiple projects and ensuring data accuracy across different regions. Emma is highly experienced with business management and scheduling tools but is new to geospatial systems. She looks for a solution that provides both high-level insights and detailed performance tracking to help her make data-driven decisions.
+
+
+
